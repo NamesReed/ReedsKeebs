@@ -4,12 +4,13 @@
 
 1. Download this repository by going back to the main page, and clicking the green "Code" button, then downloading as .zip.
 2. Unzip the file using whatever software you like, 7ZIP, WinRar, ect.
-3. Download QMK Toolbox at this link, find the latest release, the file should look something like "qmk_toolbox.exe"
-4. Now, plug your pro micro into your computer, DO NOT USE A USB HUB.
-5. Find the reedskeebs_alish_vial.hex within QMK toolbox under the Local Files section.
-6. Check the "Auto Flash" button.
-7. Select the MCU as "atmega32u4" if it is not already.
-8. At this point, QMK Toolbox should be properly configured, and look like this
+3. Download QMK Toolbox at this link, https://github.com/qmk/qmk_toolbox/releases 
+4. Find the latest release, the file should look something like "qmk_toolbox.exe"
+5. Now, plug your pro micro into your computer, DO NOT USE A USB HUB.
+6. Find the reedskeebs_alish_vial.hex within QMK toolbox under the Local Files section.
+7. Check the "Auto Flash" button.
+8. Select the MCU as "atmega32u4" if it is not already.
+9. At this point, QMK Toolbox should be properly configured, and look like this
 ![image](https://user-images.githubusercontent.com/36281259/158075587-73514396-c388-4b16-8fe6-5bac3371947a.png)
 9. Now, locate the RST and GND pins on the pro micro.
 
