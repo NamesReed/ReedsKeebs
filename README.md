@@ -5,6 +5,8 @@ Join my discord for help: https://discord.gg/JtBQ8nmr7R
 
 If you have a KB2040 and an Alish board, follow these instructions for installation of KMK firmware.  
 
+If you have a ProMicro or similar, you will find instructions for flashing within the Alish40 QMK Firmware directory.
+
 1. Plug KB2040 DIRECTLY into your computer, USB hubs can cause issues.  
 2. Download the CircuitPython installer, a .UF2 file, from https://circuitpython.org/board/adafruit_kb2040/
 3. Enter Bootloader mode on the KB2040 by pressing and holding the BOOT button then pressing the RST button. 
