@@ -17,13 +17,11 @@ This repository contains all working firmware for my boards and design files I h
 6. The device should reboot and will appear in your storage devices as CIRCUITPY.
 7. Download the kmk_firmware repository, found here: https://github.com/KMKfw/kmk_firmware by clicking the green "Code" button, and downloading the .zip.
 8. Unzip the folder using you're preferred program. 
-9. Drag all contents from the folder titled "kmk" (not the folder itself) to the CIRCUITPY drive.
+9. Drag the folder titled "kmk", NOT THE ENTIRE MASTER DIRECTORY, to the CIRCUITPY drive.
 10. Drag the "boot.py" file to the CIRCUITPY drive.
 11. Download this repository just like you did the kmk_firmware repo, and proceed to unzip the folder.
-12. Drag the "code.py" file to the CIRCUITPY drive.
-13. Verify that there is not a red blinking light on the KB2040. 
-14. Congratulations, you now have a fully functional KB2040.
-15. If you do get a blinking red light, please contact me through discord, and watch the youtube video (not made yet) carefully.
+12. Drag the "code.py" file to the CIRCUITPY drive, this should be on the same level as the boot.py file, not within the kmk folder. 
+13. Congratulations, you now have a fully functional KB2040.
 
 
 You can find the kmk_firmware repository HERE: https://github.com/KMKfw/kmk_firmware
