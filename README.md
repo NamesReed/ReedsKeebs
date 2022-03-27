@@ -4,7 +4,7 @@ This repository contains all working firmware for my boards and design files I h
 ### Join my discord for help: https://discord.gg/JtBQ8nmr7R
 
 ### If you have a ProMicro or similar, you will find instructions for flashing within the Alish40 QMK Firmware directory.
-
+### I've since learned some more about KMK, do not use this guide for RP2040's at the moment.  I need to make some changes.
 # If you have a KB2040 and an Alish board, follow these instructions for installation of KMK firmware.  
 
 
