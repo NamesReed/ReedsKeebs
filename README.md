@@ -20,7 +20,7 @@ This repository contains all working firmware for my boards and design files I h
 9. Drag the folder titled "kmk", NOT THE ENTIRE MASTER DIRECTORY, to the CIRCUITPY drive.
 10. Drag the "boot.py" file to the CIRCUITPY drive.
 11. Download this repository just like you did the kmk_firmware repo, and proceed to unzip the folder.
-12. Drag the "code.py" file to the CIRCUITPY drive, this should be on the same level as the boot.py file, not within the kmk folder. 
+12. Drag the "main.py" file located within the AlishKMKFirmware to the CIRCUITPY drive, this should be on the same level as the boot.py file, not within the kmk folder. 
 13. Congratulations, you now have a fully functional KB2040.
 
 
