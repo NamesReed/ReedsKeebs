@@ -1,4 +1,7 @@
-# Only follow these instructions if you own a PRO MICRO OR EQUIVALENT!!!
+# Follow these instructions if you want a gui to change your keymap!
+
+# Use the .hex if you have a pro micro, use the uf2 if you have a kb2040
+Scroll to the bottom for KB2040 Vial firmware instructions
 
 ### This installation will provide you the ability to change your keymap on the fly without reflashing with the use of Vial, a VIA alternative.
 
@@ -27,3 +30,11 @@
 
 13. If it did not flash, retry shorting the pins, sometimes it takes a few tries.
 15. Congrats! You can now continue with the rest of the build.
+
+## KB2040 Vial Firmware Instructions
+
+If you have a KB2040 and would like Vial, read this guide
+
+Download the Vial_Alish_KB2040 ONLY IF YOU HAVE A KB2040 Hold down the BOOT button on your KB2040, then press the Reset button. This puts the board into bootloader, you should see a new "drive" on your computer labeled something like "UF2 Bootloader" Drag the Vial_Alish_KB2040.uf2 file to the new drive.
+
+Wait a few moments, now your KB2040 is flashed with Vial firmware, easily change your keymap by downloading the Vial gui.
