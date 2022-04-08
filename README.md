@@ -6,7 +6,7 @@ Join my discord for help: https://discord.gg/JtBQ8nmr7R
 If you have a ProMicro or similar, you will find instructions for flashing within the Alish40 QMK Firmware directory.
 
 
-# The KMK firmware is official, to change your keymap, you must edit a text file, this can be done on the fly and does not require reflashing.
+# KMK firmware is officially supported on the KB2040, to change your keymap, you must edit a text file, this can be done on the fly and does not require reflashing.
 
 If you have a KB2040 and an Alish board, you can find the QMK/Vial install guide within the QMK Firmware directory.
 
