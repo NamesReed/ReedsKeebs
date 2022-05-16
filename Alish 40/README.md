@@ -1,5 +1,4 @@
 # ReedsKeebs
-This repository contains all working firmware for my boards and design files I have made public.  
 
 Join my discord for help: https://discord.gg/JtBQ8nmr7R
 
