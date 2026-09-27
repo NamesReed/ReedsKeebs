@@ -1,0 +1,1 @@
+.uf2 is for KB2040
